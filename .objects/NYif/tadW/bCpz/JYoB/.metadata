@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Sunday, 100 pm",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "JYoB3aTT6kGb-V0zQ7A5iQ",
+  "Reference": "a583scnbIU2a23eY8anlVw/JYoB3aTT6kGb-V0zQ7A5iQ",
+  "ParentRef": "a583scnbIU2a23eY8anlVw/bCpz4kq8lk2PxCPXaKuRvQ",
+  "Created": "2025-08-10T08:13:12.1461566Z",
+  "Updated": "2025-08-10T08:13:12.1461566Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

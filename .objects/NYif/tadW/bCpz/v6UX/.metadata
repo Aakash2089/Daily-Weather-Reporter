@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Light Thunderstorms and…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "v6UXdCR4Kk-4S59BY4vgBg",
+  "Reference": "a583scnbIU2a23eY8anlVw/v6UXdCR4Kk-4S59BY4vgBg",
+  "ParentRef": "a583scnbIU2a23eY8anlVw/bCpz4kq8lk2PxCPXaKuRvQ",
+  "Created": "2025-08-10T08:11:42.253246Z",
+  "Updated": "2025-08-10T08:11:42.253246Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
